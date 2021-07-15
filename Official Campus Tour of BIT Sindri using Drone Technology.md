@@ -9,4 +9,4 @@
 # 4.Camera Sensor:	1/2.3” CMOS, Effective Pixels: 12 MP
 # 5.Stabilization	: 3-axis (tilt, roll, pan)
 
-[![test](https://img.youtube.com/vi/7wQ9V7mBY0o/0.jpg)](https://www.youtube.com/channel/UCAJDxZ9XUbcc8e866VvQmRQ)
+[![](https://img.youtube.com/vi/7wQ9V7mBY0o/0.jpg)](https://www.youtube.com/channel/UCAJDxZ9XUbcc8e866VvQmRQ)
