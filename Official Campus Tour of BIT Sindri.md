@@ -1,7 +1,7 @@
-# YouTube-Partner-Program-
+# YouTube-Partner-Program
 
-Official Campus Tour of BIT Sindri
-Created using DRONE TECH- DJI Mavic Air
+# Official Campus Tour of BIT Sindri
+# Created using DRONE TECH- DJI Mavic Air
 Specifications of DJI Mavic Air:
 1.Maximum Takeoff Altitude: 5000 m
 2.Max Flight Distance (no wind):	10 km
