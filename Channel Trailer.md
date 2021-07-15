@@ -1,3 +1,3 @@
 # YouTube-Partner-Program
 #  #DBR Studio with 3.3k subscribers and 5 lakhs + views
-[![YouTube-Partner-Program](https://img.youtube.com/vi/ls4EUK7klV4&t=121s/0.jpg)](https://www.youtube.com/channel/ls4EUK7klV4&t=121s)
+[![YouTube-Partner-Program](https://img.youtube.com/vi/ls4EUK7klV4/0.jpg)](https://www.youtube.com/channel/ls4EUK7klV4)
